@@ -1,7 +1,8 @@
 # Stock Ticker Chart & Table
 Better documentation in the [Frontend repo](https://github.com/jenesh/fastapi-fe)
-[Alpha Vantage API](https://www.alphavantage.co/documentation/#dailyadj)
 
+
+API used: [Alpha Vantage API](https://www.alphavantage.co/documentation/#dailyadj)
 Daily limit of 25
 
 
